@@ -4,13 +4,13 @@
 
 - Aggregate data into one Data Frame using Pandas. -check 
 - Standardizing header names - check
-- Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data - check 
+- Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data - check  - check
 
-- Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of open complaints ). Hint: remove the percentage from the customer lifetime value and truncate it to an integer value.
+- Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of open complaints ). Hint: remove the percentage from the customer lifetime value and truncate it to an integer value. -check
 - clean the number of open complaints and extract the middle number which is changing between records. pay attention that the number of open complaints is a categorical feature.
-- Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
-- Removing duplicates
-- Replacing null values – Replace missing values with means of the column (for numerical columns)
+- Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns -check
+- Removing duplicates -check 
+- Replacing null values – Replace missing values with means of the column (for numerical columns) -check 
 
 ### Activity 2
 
