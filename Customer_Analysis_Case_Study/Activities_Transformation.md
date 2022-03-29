@@ -2,7 +2,7 @@
 
 ### Activity 1.  # Done
 
-- Aggregate data into one Data Frame using Pandas.
+- Aggregate data into one Data Frame using Pandas. - Done 
 - Standardizing header names
 - Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data
 - Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of complaints )
