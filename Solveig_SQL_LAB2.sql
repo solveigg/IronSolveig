@@ -1,3 +1,5 @@
+-- LAB 2
+
 use bank;
 
 -- Assume that any _id columns are incremental, meaning that higher ids always occur after lower ids. For example, 
