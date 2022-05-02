@@ -1,0 +1,535 @@
+indicator_id,indicator_name,country_code,country_name,year,value
+38406,Multidimensional poverty index (MPI),CAF,Central African Republic,2008-2019,0.46486375
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",CAF,Central African Republic,2008-2019,58.57636333
+38606,"Population in multidimensional poverty, headcount (%)",CAF,Central African Republic,2008-2019,79.36029434
+101006,Population in severe multidimensional poverty (%),CAF,Central African Republic,2008-2019,54.7228992
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",CAF,Central African Republic,2008-2019,3481.349616
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,CAF,Central African Republic,2008-2019,25.73561072
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,CAF,Central African Republic,2008-2019,27.79965401
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,CAF,Central African Republic,2008-2019,46.46473825
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2019,0.351229301
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2019,0.438258714
+167106,"Population living below income poverty line, PPP $1.90 a day (%)",CAF,Central African Republic,2008-2018,66.3
+183206,"Overall loss in HDI value due to inequality, average annual change (%)",CAF,Central African Republic,2010/2019,-0.094748137
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",CAF,Central African Republic,2008-2019,3703.248935
+38406,Multidimensional poverty index (MPI),ECU,Ecuador,2008-2019,0.0182538
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",ECU,Ecuador,2008-2019,39.87866
+38606,"Population in multidimensional poverty, headcount (%)",ECU,Ecuador,2008-2019,4.577325
+101006,Population in severe multidimensional poverty (%),ECU,Ecuador,2008-2019,0.7979223
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",ECU,Ecuador,2008-2019,730.1671941
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,ECU,Ecuador,2008-2019,23.644682
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,ECU,Ecuador,2008-2019,40.4352
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,ECU,Ecuador,2008-2019,35.920125
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2019,0.742928666
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2019,0.767990043
+167106,"Population living below income poverty line, PPP $1.90 a day (%)",ECU,Ecuador,2008-2018,3.3
+183206,"Overall loss in HDI value due to inequality, average annual change (%)",ECU,Ecuador,2010/2019,-0.797246322
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",ECU,Ecuador,2008-2019,782.0066356
+38406,Multidimensional poverty index (MPI),EGY,Egypt,2008-2019,0.01942496
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",EGY,Egypt,2008-2019,37.61300743
+38606,"Population in multidimensional poverty, headcount (%)",EGY,Egypt,2008-2019,5.16442657
+101006,Population in severe multidimensional poverty (%),EGY,Egypt,2008-2019,0.57906071
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",EGY,Egypt,2008-2019,4669.91558
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,EGY,Egypt,2008-2019,53.18067074
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,EGY,Egypt,2008-2019,39.84304965
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,EGY,Egypt,2008-2019,6.97628409
+136906,"Human Development Index (HDI), female",EGY,Egypt,2019,0.652050925
+137006,"Human Development Index (HDI), male",EGY,Egypt,2019,0.739007559
+167106,"Population living below income poverty line, PPP $1.90 a day (%)",EGY,Egypt,2008-2018,3.2
+183206,"Overall loss in HDI value due to inequality, average annual change (%)",EGY,Egypt,2010/2019,0.841625036
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",EGY,Egypt,2008-2019,5083.014653
+38406,Multidimensional poverty index (MPI),IND,India,2008-2019,0.12265247
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",IND,India,2008-2019,43.94929409
+38606,"Population in multidimensional poverty, headcount (%)",IND,India,2008-2019,27.90772319
+101006,Population in severe multidimensional poverty (%),IND,India,2008-2019,8.77306014
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",IND,India,2008-2019,369642.6077
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,IND,India,2008-2019,23.38272631
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,IND,India,2008-2019,31.85433745
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,IND,India,2008-2019,44.76294219
+136906,"Human Development Index (HDI), female",IND,India,2019,0.573180639
+137006,"Human Development Index (HDI), male",IND,India,2019,0.698787862
+167106,"Population living below income poverty line, PPP $1.90 a day (%)",IND,India,2008-2018,21.2
+183206,"Overall loss in HDI value due to inequality, average annual change (%)",IND,India,2010/2019,-1.32057925
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",IND,India,2008-2019,377491.6641
+38406,Multidimensional poverty index (MPI),MDA,Moldova (Republic of),2008-2019,0.00353391
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",MDA,Moldova (Republic of),2008-2019,37.44998872
+38606,"Population in multidimensional poverty, headcount (%)",MDA,Moldova (Republic of),2008-2019,0.94363317
+101006,Population in severe multidimensional poverty (%),MDA,Moldova (Republic of),2008-2019,0.06327384
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",MDA,Moldova (Republic of),2008-2019,38.46063849
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2008-2019,42.38091111
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2008-2019,9.18348208
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2008-2019,48.43560755
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2019,0.75444439
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2019,0.744241921
+167106,"Population living below income poverty line, PPP $1.90 a day (%)",MDA,Moldova (Republic of),2008-2018,0.0
+183206,"Overall loss in HDI value due to inequality, average annual change (%)",MDA,Moldova (Republic of),2010/2019,-2.828463338
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",MDA,Moldova (Republic of),2008-2019,38.23554423
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2019,41.56171285
+135006,Coefficient of human inequality,CAF,Central African Republic,2019,41.26666667
+137506,Human Development Index (HDI),CAF,Central African Republic,2019,0.397
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2019,0.232
+146206,HDI rank,CAF,Central African Republic,2019,188.0
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2019,18.84057971
+135006,Coefficient of human inequality,ECU,Ecuador,2019,18.43092808
+137506,Human Development Index (HDI),ECU,Ecuador,2019,0.759
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2019,0.616
+146206,HDI rank,ECU,Ecuador,2019,86.0
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2019,29.7029703
+135006,Coefficient of human inequality,EGY,Egypt,2019,28.73333333
+137506,Human Development Index (HDI),EGY,Egypt,2019,0.707
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2019,0.497
+146206,HDI rank,EGY,Egypt,2019,116.0
+73506,Overall loss in HDI due to inequality (%),IND,India,2019,26.35658915
+135006,Coefficient of human inequality,IND,India,2019,25.73100667
+137506,Human Development Index (HDI),IND,India,2019,0.645
+138806,Inequality-adjusted HDI (IHDI),IND,India,2019,0.475
+146206,HDI rank,IND,India,2019,131.0
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2019,10.4
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2019,10.3
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2019,0.75
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2019,0.672
+146206,HDI rank,MDA,Moldova (Republic of),2019,90.0
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2018,41.7721519
+135006,Coefficient of human inequality,CAF,Central African Republic,2018,41.2974
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2018,0.348677025
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2018,0.435623445
+137506,Human Development Index (HDI),CAF,Central African Republic,2018,0.395
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2018,0.23
+146206,HDI rank,CAF,Central African Republic,2018,188.0
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2018,19.94750656
+135006,Coefficient of human inequality,ECU,Ecuador,2018,19.48090883
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2018,0.752913697
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2018,0.768872081
+137506,Human Development Index (HDI),ECU,Ecuador,2018,0.762
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2018,0.61
+146206,HDI rank,ECU,Ecuador,2018,84.0
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2018,29.67189729
+135006,Coefficient of human inequality,EGY,Egypt,2018,28.76013333
+136906,"Human Development Index (HDI), female",EGY,Egypt,2018,0.645305257
+137006,"Human Development Index (HDI), male",EGY,Egypt,2018,0.732969817
+137506,Human Development Index (HDI),EGY,Egypt,2018,0.701
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2018,0.493
+146206,HDI rank,EGY,Egypt,2018,117.0
+73506,Overall loss in HDI due to inequality (%),IND,India,2018,26.32398754
+135006,Coefficient of human inequality,IND,India,2018,25.7415
+136906,"Human Development Index (HDI), female",IND,India,2018,0.564613316
+137006,"Human Development Index (HDI), male",IND,India,2018,0.690233537
+137506,Human Development Index (HDI),IND,India,2018,0.642
+138806,Inequality-adjusted HDI (IHDI),IND,India,2018,0.473
+146206,HDI rank,IND,India,2018,130.0
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2018,10.32171582
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2018,10.29935
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2018,0.750325007
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2018,0.740768139
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2018,0.746
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2018,0.669
+146206,HDI rank,MDA,Moldova (Republic of),2018,91.0
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2017,42.19948849
+135006,Coefficient of human inequality,CAF,Central African Republic,2017,41.8
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2017,0.344370728
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2017,0.432206219
+137506,Human Development Index (HDI),CAF,Central African Republic,2017,0.391
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2017,0.226
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2017,19.73684211
+135006,Coefficient of human inequality,ECU,Ecuador,2017,19.4
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2017,0.753169345
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2017,0.7680051
+137506,Human Development Index (HDI),ECU,Ecuador,2017,0.76
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2017,0.61
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2017,29.22636103
+135006,Coefficient of human inequality,EGY,Egypt,2017,28.26666667
+136906,"Human Development Index (HDI), female",EGY,Egypt,2017,0.645354188
+137006,"Human Development Index (HDI), male",EGY,Egypt,2017,0.729585897
+137506,Human Development Index (HDI),EGY,Egypt,2017,0.698
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2017,0.494
+73506,Overall loss in HDI due to inequality (%),IND,India,2017,26.875
+135006,Coefficient of human inequality,IND,India,2017,26.3
+136906,"Human Development Index (HDI), female",IND,India,2017,0.561071337
+137006,"Human Development Index (HDI), male",IND,India,2017,0.686774428
+137506,Human Development Index (HDI),IND,India,2017,0.64
+138806,Inequality-adjusted HDI (IHDI),IND,India,2017,0.468
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2017,10.36339166
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2017,10.3
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2017,0.747369522
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2017,0.737887138
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2017,0.743
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2017,0.666
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2016,42.14659686
+135006,Coefficient of human inequality,CAF,Central African Republic,2016,41.8133
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2016,0.338101314
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2016,0.426282898
+137506,Human Development Index (HDI),CAF,Central African Republic,2016,0.382
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2016,0.221
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2016,20.44854881
+135006,Coefficient of human inequality,ECU,Ecuador,2016,20.00966667
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2016,0.751876154
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2016,0.767056594
+137506,Human Development Index (HDI),ECU,Ecuador,2016,0.758
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2016,0.603
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2016,29.16666667
+135006,Coefficient of human inequality,EGY,Egypt,2016,28.2699
+136906,"Human Development Index (HDI), female",EGY,Egypt,2016,0.64258451
+137006,"Human Development Index (HDI), male",EGY,Egypt,2016,0.72846569
+137506,Human Development Index (HDI),EGY,Egypt,2016,0.696
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2016,0.493
+38406,Multidimensional poverty index (MPI),IND,India,2016,0.1226525
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",IND,India,2016,43.9493
+38606,"Population in multidimensional poverty, headcount (%)",IND,India,2016,27.90772
+73506,Overall loss in HDI due to inequality (%),IND,India,2016,27.77777778
+101006,Population in severe multidimensional poverty (%),IND,India,2016,8.77306
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",IND,India,2016,369643.0
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,IND,India,2016,23.38273
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,IND,India,2016,31.85434
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,IND,India,2016,44.76294
+135006,Coefficient of human inequality,IND,India,2016,27.25136667
+136906,"Human Development Index (HDI), female",IND,India,2016,0.556303735
+137006,"Human Development Index (HDI), male",IND,India,2016,0.682176945
+137506,Human Development Index (HDI),IND,India,2016,0.63
+138806,Inequality-adjusted HDI (IHDI),IND,India,2016,0.455
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",IND,India,2016,377492.0
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2016,10.29810298
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2016,10.2927
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2016,0.74349884
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2016,0.734058324
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2016,0.738
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2016,0.662
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2015,43.46666667
+135006,Coefficient of human inequality,CAF,Central African Republic,2015,43.11953333
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2015,0.32827063
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2015,0.418546123
+137506,Human Development Index (HDI),CAF,Central African Republic,2015,0.375
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2015,0.212
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2015,20.54973822
+135006,Coefficient of human inequality,ECU,Ecuador,2015,20.21786667
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2015,0.74485882
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2015,0.762877594
+137506,Human Development Index (HDI),ECU,Ecuador,2015,0.764
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2015,0.607
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2015,28.94356006
+135006,Coefficient of human inequality,EGY,Egypt,2015,28.23626667
+136906,"Human Development Index (HDI), female",EGY,Egypt,2015,0.63598797
+137006,"Human Development Index (HDI), male",EGY,Egypt,2015,0.72405652
+137506,Human Development Index (HDI),EGY,Egypt,2015,0.691
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2015,0.491
+73506,Overall loss in HDI due to inequality (%),IND,India,2015,27.08333333
+135006,Coefficient of human inequality,IND,India,2015,26.4981
+136906,"Human Development Index (HDI), female",IND,India,2015,0.546333028
+137006,"Human Development Index (HDI), male",IND,India,2015,0.675280554
+137506,Human Development Index (HDI),IND,India,2015,0.624
+138806,Inequality-adjusted HDI (IHDI),IND,India,2015,0.455
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2015,10.19021739
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2015,10.1029
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2015,0.740537033
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2015,0.730413887
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2015,0.736
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2015,0.661
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2014,43.47826087
+135006,Coefficient of human inequality,CAF,Central African Republic,2014,43.13333333
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2014,0.320740902
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2014,0.413579768
+137506,Human Development Index (HDI),CAF,Central African Republic,2014,0.368
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2014,0.208
+38406,Multidimensional poverty index (MPI),ECU,Ecuador,2014,0.0182538
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",ECU,Ecuador,2014,39.87866
+38606,"Population in multidimensional poverty, headcount (%)",ECU,Ecuador,2014,4.577325
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2014,22.08994709
+101006,Population in severe multidimensional poverty (%),ECU,Ecuador,2014,0.7979223
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",ECU,Ecuador,2014,730.0
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,ECU,Ecuador,2014,23.64468
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,ECU,Ecuador,2014,40.4352
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,ECU,Ecuador,2014,35.92012
+135006,Coefficient of human inequality,ECU,Ecuador,2014,21.8
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2014,0.740069938
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2014,0.764439658
+137506,Human Development Index (HDI),ECU,Ecuador,2014,0.756
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2014,0.589
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",ECU,Ecuador,2014,782.0
+38406,Multidimensional poverty index (MPI),EGY,Egypt,2014,0.019425
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",EGY,Egypt,2014,37.61301
+38606,"Population in multidimensional poverty, headcount (%)",EGY,Egypt,2014,5.164427
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2014,23.94160584
+101006,Population in severe multidimensional poverty (%),EGY,Egypt,2014,0.5790607
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",EGY,Egypt,2014,4670.0
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,EGY,Egypt,2014,53.18067
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,EGY,Egypt,2014,39.84305
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,EGY,Egypt,2014,6.976284
+135006,Coefficient of human inequality,EGY,Egypt,2014,22.83333333
+136906,"Human Development Index (HDI), female",EGY,Egypt,2014,0.629694273
+137006,"Human Development Index (HDI), male",EGY,Egypt,2014,0.719703249
+137506,Human Development Index (HDI),EGY,Egypt,2014,0.685
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2014,0.521
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",EGY,Egypt,2014,5083.0
+73506,Overall loss in HDI due to inequality (%),IND,India,2014,28.57142857
+135006,Coefficient of human inequality,IND,India,2014,27.73333333
+136906,"Human Development Index (HDI), female",IND,India,2014,0.540484543
+137006,"Human Development Index (HDI), male",IND,India,2014,0.667262302
+137506,Human Development Index (HDI),IND,India,2014,0.616
+138806,Inequality-adjusted HDI (IHDI),IND,India,2014,0.44
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2014,10.71913161
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2014,10.76666667
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2014,0.741212783
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2014,0.732510532
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2014,0.737
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2014,0.658
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2013,40.49586777
+135006,Coefficient of human inequality,CAF,Central African Republic,2013,39.9
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2013,0.315575105
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2013,0.410406886
+137506,Human Development Index (HDI),CAF,Central African Republic,2013,0.363
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2013,0.216
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2013,22.67904509
+135006,Coefficient of human inequality,ECU,Ecuador,2013,22.36666667
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2013,0.735548447
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2013,0.762480016
+137506,Human Development Index (HDI),ECU,Ecuador,2013,0.754
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2013,0.583
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2013,24.01171303
+135006,Coefficient of human inequality,EGY,Egypt,2013,22.83333333
+136906,"Human Development Index (HDI), female",EGY,Egypt,2013,0.626033419
+137006,"Human Development Index (HDI), male",EGY,Egypt,2013,0.718731368
+137506,Human Development Index (HDI),EGY,Egypt,2013,0.683
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2013,0.519
+73506,Overall loss in HDI due to inequality (%),IND,India,2013,28.47682119
+135006,Coefficient of human inequality,IND,India,2013,27.73333333
+136906,"Human Development Index (HDI), female",IND,India,2013,0.528614468
+137006,"Human Development Index (HDI), male",IND,India,2013,0.656891385
+137506,Human Development Index (HDI),IND,India,2013,0.604
+138806,Inequality-adjusted HDI (IHDI),IND,India,2013,0.432
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2013,12.24489796
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2013,12.0
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2013,0.738349226
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2013,0.730384185
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2013,0.735
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2013,0.645
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2012,40.6824147
+135006,Coefficient of human inequality,CAF,Central African Republic,2012,40.0
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2012,0.332671188
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2012,0.431099601
+137506,Human Development Index (HDI),CAF,Central African Republic,2012,0.381
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2012,0.226
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2012,25.69906791
+135006,Coefficient of human inequality,ECU,Ecuador,2012,25.0
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2012,0.728251261
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2012,0.757451509
+137506,Human Development Index (HDI),ECU,Ecuador,2012,0.751
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2012,0.558
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2012,24.07680945
+135006,Coefficient of human inequality,EGY,Egypt,2012,23.0
+136906,"Human Development Index (HDI), female",EGY,Egypt,2012,0.618754003
+137006,"Human Development Index (HDI), male",EGY,Egypt,2012,0.714513913
+137506,Human Development Index (HDI),EGY,Egypt,2012,0.677
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2012,0.514
+73506,Overall loss in HDI due to inequality (%),IND,India,2012,29.31323283
+135006,Coefficient of human inequality,IND,India,2012,28.43333333
+136906,"Human Development Index (HDI), female",IND,India,2012,0.516301189
+137006,"Human Development Index (HDI), male",IND,India,2012,0.650585549
+137506,Human Development Index (HDI),IND,India,2012,0.597
+138806,Inequality-adjusted HDI (IHDI),IND,India,2012,0.422
+38406,Multidimensional poverty index (MPI),MDA,Moldova (Republic of),2012,0.0035339
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",MDA,Moldova (Republic of),2012,37.44999
+38606,"Population in multidimensional poverty, headcount (%)",MDA,Moldova (Republic of),2012,0.9436332
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2012,11.57024793
+101006,Population in severe multidimensional poverty (%),MDA,Moldova (Republic of),2012,0.0632738
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",MDA,Moldova (Republic of),2012,38.0
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2012,42.38091
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2012,9.183482
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,MDA,Moldova (Republic of),2012,48.43561
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2012,11.43333333
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2012,0.728271726
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2012,0.72283806
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2012,0.726
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2012,0.642
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",MDA,Moldova (Republic of),2012,38.0
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2011,40.64171123
+135006,Coefficient of human inequality,CAF,Central African Republic,2011,40.0
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2011,0.325725658
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2011,0.425513952
+137506,Human Development Index (HDI),CAF,Central African Republic,2011,0.374
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2011,0.222
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2011,25.81967213
+135006,Coefficient of human inequality,ECU,Ecuador,2011,25.0
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2011,0.708757277
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2011,0.739396766
+137506,Human Development Index (HDI),ECU,Ecuador,2011,0.732
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2011,0.543
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2011,24.14307004
+135006,Coefficient of human inequality,EGY,Egypt,2011,23.0
+136906,"Human Development Index (HDI), female",EGY,Egypt,2011,0.607667208
+137006,"Human Development Index (HDI), male",EGY,Egypt,2011,0.710386092
+137506,Human Development Index (HDI),EGY,Egypt,2011,0.671
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2011,0.509
+73506,Overall loss in HDI due to inequality (%),IND,India,2011,28.23129252
+135006,Coefficient of human inequality,IND,India,2011,27.46666667
+136906,"Human Development Index (HDI), female",IND,India,2011,0.506392315
+137006,"Human Development Index (HDI), male",IND,India,2011,0.644419642
+137506,Human Development Index (HDI),IND,India,2011,0.588
+138806,Inequality-adjusted HDI (IHDI),IND,India,2011,0.422
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2011,12.23922114
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2011,12.06666667
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2011,0.721768751
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2011,0.716186007
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2011,0.719
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2011,0.631
+38406,Multidimensional poverty index (MPI),CAF,Central African Republic,2010,0.4648637
+38506,"Population in multidimensional poverty, intensity of deprivation (%)",CAF,Central African Republic,2010,58.57636
+38606,"Population in multidimensional poverty, headcount (%)",CAF,Central African Republic,2010,79.36029
+73506,Overall loss in HDI due to inequality (%),CAF,Central African Republic,2010,41.91780822
+101006,Population in severe multidimensional poverty (%),CAF,Central African Republic,2010,54.7229
+102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",CAF,Central African Republic,2010,3481.0
+117806,Contribution of deprivation in education to the Multidimensional Poverty Index,CAF,Central African Republic,2010,25.73561
+117906,Contribution of deprivation in health to the Multidimensional Poverty Index,CAF,Central African Republic,2010,27.79965
+118006,Contribution of deprivation in standard of living to the Multidimensional Poverty Index,CAF,Central African Republic,2010,46.46474
+135006,Coefficient of human inequality,CAF,Central African Republic,2010,41.26666667
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2010,0.317386376
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2010,0.418659004
+137506,Human Development Index (HDI),CAF,Central African Republic,2010,0.365
+138806,Inequality-adjusted HDI (IHDI),CAF,Central African Republic,2010,0.212
+183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2018)",CAF,Central African Republic,2010,3703.0
+73506,Overall loss in HDI due to inequality (%),ECU,Ecuador,2010,20.24793388
+135006,Coefficient of human inequality,ECU,Ecuador,2010,20.13333333
+136906,"Human Development Index (HDI), female",ECU,Ecuador,2010,0.703627757
+137006,"Human Development Index (HDI), male",ECU,Ecuador,2010,0.733527539
+137506,Human Development Index (HDI),ECU,Ecuador,2010,0.726
+138806,Inequality-adjusted HDI (IHDI),ECU,Ecuador,2010,0.579
+73506,Overall loss in HDI due to inequality (%),EGY,Egypt,2010,27.54491018
+135006,Coefficient of human inequality,EGY,Egypt,2010,26.43333333
+136906,"Human Development Index (HDI), female",EGY,Egypt,2010,0.598183232
+137006,"Human Development Index (HDI), male",EGY,Egypt,2010,0.709271376
+137506,Human Development Index (HDI),EGY,Egypt,2010,0.668
+138806,Inequality-adjusted HDI (IHDI),EGY,Egypt,2010,0.484
+73506,Overall loss in HDI due to inequality (%),IND,India,2010,29.70639033
+135006,Coefficient of human inequality,IND,India,2010,28.86666667
+136906,"Human Development Index (HDI), female",IND,India,2010,0.495456778
+137006,"Human Development Index (HDI), male",IND,India,2010,0.633499553
+137506,Human Development Index (HDI),IND,India,2010,0.579
+138806,Inequality-adjusted HDI (IHDI),IND,India,2010,0.407
+73506,Overall loss in HDI due to inequality (%),MDA,Moldova (Republic of),2010,13.46423562
+135006,Coefficient of human inequality,MDA,Moldova (Republic of),2010,13.33333333
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2010,0.715055693
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2010,0.710267775
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2010,0.713
+138806,Inequality-adjusted HDI (IHDI),MDA,Moldova (Republic of),2010,0.617
+137506,Human Development Index (HDI),CAF,Central African Republic,2009,0.356
+137506,Human Development Index (HDI),ECU,Ecuador,2009,0.719
+137506,Human Development Index (HDI),EGY,Egypt,2009,0.662
+137506,Human Development Index (HDI),IND,India,2009,0.569
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2009,0.706
+137506,Human Development Index (HDI),CAF,Central African Republic,2008,0.352
+137506,Human Development Index (HDI),ECU,Ecuador,2008,0.717
+137506,Human Development Index (HDI),EGY,Egypt,2008,0.66
+137506,Human Development Index (HDI),IND,India,2008,0.563
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2008,0.71
+137506,Human Development Index (HDI),CAF,Central African Republic,2007,0.347
+137506,Human Development Index (HDI),ECU,Ecuador,2007,0.71
+137506,Human Development Index (HDI),EGY,Egypt,2007,0.653
+137506,Human Development Index (HDI),IND,India,2007,0.555
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2007,0.704
+137506,Human Development Index (HDI),CAF,Central African Republic,2006,0.342
+137506,Human Development Index (HDI),ECU,Ecuador,2006,0.701
+137506,Human Development Index (HDI),EGY,Egypt,2006,0.645
+137506,Human Development Index (HDI),IND,India,2006,0.546
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2006,0.699
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2005,0.286260259
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2005,0.38278423
+137506,Human Development Index (HDI),CAF,Central African Republic,2005,0.336
+137506,Human Development Index (HDI),ECU,Ecuador,2005,0.698
+136906,"Human Development Index (HDI), female",EGY,Egypt,2005,0.562789271
+137006,"Human Development Index (HDI), male",EGY,Egypt,2005,0.681327363
+137506,Human Development Index (HDI),EGY,Egypt,2005,0.637
+136906,"Human Development Index (HDI), female",IND,India,2005,0.45259205
+137006,"Human Development Index (HDI), male",IND,India,2005,0.594553644
+137506,Human Development Index (HDI),IND,India,2005,0.536
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2005,0.69064232
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2005,0.692071995
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2005,0.692
+137506,Human Development Index (HDI),CAF,Central African Republic,2004,0.331
+137506,Human Development Index (HDI),ECU,Ecuador,2004,0.693
+137506,Human Development Index (HDI),EGY,Egypt,2004,0.631
+137506,Human Development Index (HDI),IND,India,2004,0.527
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2004,0.684
+137506,Human Development Index (HDI),CAF,Central African Republic,2003,0.328
+137506,Human Development Index (HDI),ECU,Ecuador,2003,0.687
+137506,Human Development Index (HDI),EGY,Egypt,2003,0.625
+137506,Human Development Index (HDI),IND,India,2003,0.518
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2003,0.673
+137506,Human Development Index (HDI),CAF,Central African Republic,2002,0.328
+137506,Human Development Index (HDI),ECU,Ecuador,2002,0.684
+137506,Human Development Index (HDI),EGY,Egypt,2002,0.622
+137506,Human Development Index (HDI),IND,India,2002,0.506
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2002,0.663
+137506,Human Development Index (HDI),CAF,Central African Republic,2001,0.327
+137506,Human Development Index (HDI),ECU,Ecuador,2001,0.68
+137506,Human Development Index (HDI),EGY,Egypt,2001,0.618
+137506,Human Development Index (HDI),IND,India,2001,0.499
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2001,0.651
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,2000,0.275686206
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,2000,0.370732868
+137506,Human Development Index (HDI),CAF,Central African Republic,2000,0.325
+137506,Human Development Index (HDI),ECU,Ecuador,2000,0.675
+136906,"Human Development Index (HDI), female",EGY,Egypt,2000,0.533448854
+137006,"Human Development Index (HDI), male",EGY,Egypt,2000,0.660131716
+137506,Human Development Index (HDI),EGY,Egypt,2000,0.613
+136906,"Human Development Index (HDI), female",IND,India,2000,0.411589398
+137006,"Human Development Index (HDI), male",IND,India,2000,0.559577172
+137506,Human Development Index (HDI),IND,India,2000,0.495
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),2000,0.640922587
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),2000,0.646345443
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),2000,0.643
+137506,Human Development Index (HDI),CAF,Central African Republic,1999,0.323
+137506,Human Development Index (HDI),ECU,Ecuador,1999,0.673
+137506,Human Development Index (HDI),EGY,Egypt,1999,0.607
+137506,Human Development Index (HDI),IND,India,1999,0.489
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1999,0.64
+137506,Human Development Index (HDI),CAF,Central African Republic,1998,0.32
+137506,Human Development Index (HDI),ECU,Ecuador,1998,0.675
+137506,Human Development Index (HDI),EGY,Egypt,1998,0.594
+137506,Human Development Index (HDI),IND,India,1998,0.481
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1998,0.637
+137506,Human Development Index (HDI),CAF,Central African Republic,1997,0.318
+137506,Human Development Index (HDI),ECU,Ecuador,1997,0.672
+137506,Human Development Index (HDI),EGY,Egypt,1997,0.592
+137506,Human Development Index (HDI),IND,India,1997,0.474
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1997,0.637
+137506,Human Development Index (HDI),CAF,Central African Republic,1996,0.315
+137506,Human Development Index (HDI),ECU,Ecuador,1996,0.668
+137506,Human Development Index (HDI),EGY,Egypt,1996,0.585
+137506,Human Development Index (HDI),IND,India,1996,0.468
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1996,0.634
+136906,"Human Development Index (HDI), female",CAF,Central African Republic,1995,0.269749826
+137006,"Human Development Index (HDI), male",CAF,Central African Republic,1995,0.36420176
+137506,Human Development Index (HDI),CAF,Central African Republic,1995,0.319
+137506,Human Development Index (HDI),ECU,Ecuador,1995,0.666
+136906,"Human Development Index (HDI), female",EGY,Egypt,1995,0.50101732
+137006,"Human Development Index (HDI), male",EGY,Egypt,1995,0.628029362
+137506,Human Development Index (HDI),EGY,Egypt,1995,0.578
+136906,"Human Development Index (HDI), female",IND,India,1995,0.367745742
+137006,"Human Development Index (HDI), male",IND,India,1995,0.525395949
+137506,Human Development Index (HDI),IND,India,1995,0.461
+136906,"Human Development Index (HDI), female",MDA,Moldova (Republic of),1995,0.634037182
+137006,"Human Development Index (HDI), male",MDA,Moldova (Republic of),1995,0.644620285
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1995,0.638
+137506,Human Development Index (HDI),CAF,Central African Republic,1994,0.317
+137506,Human Development Index (HDI),ECU,Ecuador,1994,0.663
+137506,Human Development Index (HDI),EGY,Egypt,1994,0.571
+137506,Human Development Index (HDI),IND,India,1994,0.453
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1994,0.64
+137506,Human Development Index (HDI),CAF,Central African Republic,1993,0.315
+137506,Human Development Index (HDI),ECU,Ecuador,1993,0.658
+137506,Human Development Index (HDI),EGY,Egypt,1993,0.564
+137506,Human Development Index (HDI),IND,India,1993,0.446
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1993,0.66
+137506,Human Development Index (HDI),CAF,Central African Republic,1992,0.315
+137506,Human Development Index (HDI),ECU,Ecuador,1992,0.654
+137506,Human Development Index (HDI),EGY,Egypt,1992,0.559
+137506,Human Development Index (HDI),IND,India,1992,0.44
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1992,0.661
+137506,Human Development Index (HDI),CAF,Central African Republic,1991,0.328
+137506,Human Development Index (HDI),ECU,Ecuador,1991,0.65
+137506,Human Development Index (HDI),EGY,Egypt,1991,0.552
+137506,Human Development Index (HDI),IND,India,1991,0.433
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1991,0.68
+137506,Human Development Index (HDI),CAF,Central African Republic,1990,0.334
+137506,Human Development Index (HDI),ECU,Ecuador,1990,0.648
+137506,Human Development Index (HDI),EGY,Egypt,1990,0.548
+137506,Human Development Index (HDI),IND,India,1990,0.429
+137506,Human Development Index (HDI),MDA,Moldova (Republic of),1990,0.69
