@@ -1,0 +1,335 @@
+﻿country,water_perc,sani_perc,elec_perc,slum_perc,homocides,Internetuse
+Afghanistan,27.6,..,97.7,62.7,9.8,8.3
+Albania,70.7,47.7,99.9,..,2.2,62.4
+Algeria,72.4,17.6,99.6,..,1.4,47.7
+American Samoa,98.4,..,..,..,7.2,..
+Andorra,90.6,100,100,..,0,91.6
+Angola,..,..,43,55.5,4.8,32
+Antigua and Barbuda,..,..,100,..,11.1,73
+Argentina,..,..,100,16.7,6.6,74.3
+Armenia,86.9,69.3,99.7,14.4,2.6,64.7
+Aruba,..,..,100,..,1.9,97.2
+Australia,..,74.3,100,..,1,86.5
+Austria,98.9,99.6,100,..,0.5,87.9
+Azerbaijan,88.3,21,100,..,2.3,79
+"Bahamas, The",..,..,100,..,39,85
+Bahrain,99,91.2,100,..,0.5,95.9
+Bangladesh,58.5,38.7,88,55.1,2.6,10.3
+Barbados,..,..,100,..,10.9,81.8
+Belarus,94.6,73.9,100,..,3.5,74.4
+Belgium,99.9,88.8,100,..,2,87.7
+Belize,..,..,94.2,10.8,33,47.1
+Benin,..,..,34.5,61.5,..,13.3
+Bermuda,..,..,100,..,6.5,98.4
+Bhutan,36.6,65.2,97.7,..,1.6,41.8
+Bolivia,..,52.9,91.8,43.5,6.2,43.8
+Bosnia and Herzegovina,88.9,40.3,100,..,1.7,64.9
+Botswana,..,..,67.4,..,..,41.4
+Brazil,85.8,48.7,99.8,22.3,28.6,67.5
+Brunei Darussalam,..,..,100,..,0.5,94.9
+Bulgaria,97.6,72.2,100,..,1.8,63.4
+Burkina Faso,..,..,17.2,65.8,0.6,12
+Burundi,..,..,9.3,57.9,4.5,2.7
+Cabo Verde,..,..,91.3,..,8.8,57.2
+Cambodia,27.8,..,89.1,55.1,..,32.9
+Cameroon,..,..,61,37.8,1.2,23.2
+Canada,99,84.4,100,..,1.7,92.7
+Cayman Islands,..,..,100,..,8.2,81.1
+Central African Republic,6.2,13.6,14.2,93.3,..,4
+Chad,5.6,10.1,10.9,88.2,..,6.5
+Channel Islands,92,81.5,100,..,..,..
+Chile,98.8,78.6,99.7,9,3.4,82.3
+China,..,69.7,100,25.2,0.7,54.3
+"Hong Kong SAR, China",100,85.9,100,..,0.3,89.4
+"Macao SAR, China",100,66.6,100,..,0.2,83.2
+Colombia,73,18.3,98.5,13.1,26.9,62.3
+Comoros,..,..,79.2,69.6,..,8.5
+"Congo, Dem. Rep.",19,12.7,18,74.8,..,8.6
+"Congo, Rep.",45.9,..,46.1,46.9,..,8.7
+Costa Rica,80.5,30.2,99.6,5.5,11.5,71.6
+Cote d'Ivoire,35.2,..,65.6,56,..,43.8
+Croatia,..,67.8,100,..,0.9,67.1
+Cuba,..,36.6,99.2,..,5.5,57.1
+Curacao,..,..,100,..,..,68.1
+Cyprus,99.8,77.1,100,..,1.3,80.7
+Czech Republic,97.9,85.2,100,..,0.8,78.7
+Denmark,96.7,91.9,100,..,1.1,97.1
+Djibouti,..,37.1,60.2,65.6,..,55.7
+Dominica,..,..,100,..,12.6,69.6
+Dominican Republic,..,..,100,12.1,17.8,67.6
+Ecuador,66.8,41.6,99.2,36,6.5,54.1
+"Egypt, Arab Rep.",..,67.1,100,10.6,2.6,45
+El Salvador,..,..,96.8,28.9,105.2,33.8
+Equatorial Guinea,..,..,66.3,66.2,..,18.9
+Eritrea,..,..,48,..,..,1.3
+Estonia,95.8,93.1,100,..,3.4,88.1
+Eswatini,..,..,73.5,32.7,10.1,25.6
+Ethiopia,12.6,6.7,44.3,73.9,8.8,18.6
+Faroe Islands,..,..,100,..,..,97.6
+Fiji,..,..,96,..,2.3,50
+Finland,99.6,84.1,100,..,1.5,87.5
+France,99.2,78.6,100,..,1.6,80.5
+French Polynesia,83.9,..,100,..,..,72.7
+Gabon,..,..,86.3,37,..,50.3
+"Gambia, The",44.7,29,56.2,34.8,..,32
+Georgia,66.4,34.4,100,..,2.7,59.7
+Germany,100,97.1,100,..,0.8,84.4
+Ghana,41.4,13.3,79,37.9,1.9,37.9
+Greece,100,91.7,100,..,0.9,69.9
+Greenland,96.7,91.9,100,..,7.1,69.5
+Grenada,87.1,..,94.1,6,5.5,59.1
+Guam,99.4,..,100,..,..,80.5
+Guatemala,55.8,..,93.3,38.7,29.4,40.7
+Guinea,..,..,35.4,43.3,..,11.4
+Guinea-Bissau,24.3,12.2,26,82.3,2.8,18
+Guyana,..,..,90.3,33.1,19.4,37.3
+Haiti,..,..,43.3,74.4,10,31
+Honduras,..,49.7,86.5,27.5,56.5,32.1
+Hungary,92.6,87.8,100,..,2.3,76.8
+Iceland,100,83.7,100,..,0.9,98.3
+India,..,45.9,92.5,24,3.4,18.2
+Indonesia,..,..,98.1,21.8,0.6,32.3
+"Iran, Islamic Rep.",94,..,99.9,..,2.5,64
+Iraq,59.7,42.9,99.8,47.2,10.1,49.4
+Ireland,97.3,82.9,100,..,0.7,84.1
+Isle of Man,97.2,..,100,..,1.2,..
+Israel,99.3,95,100,..,1.4,81.6
+Italy,95.8,95.8,100,..,0.8,63.1
+Jamaica,..,..,97.6,60.5,41.8,55.1
+Japan,98.6,81.4,100,..,0.3,91.7
+Jordan,85.7,82.3,100,12.9,1.6,66.8
+Kazakhstan,89.3,..,100,..,4.9,76.4
+Kenya,..,..,56.1,56,4.7,17.8
+Kiribati,14.7,26.7,98.6,..,7.5,14.6
+"Korea, Dem. People's Rep.",66.4,..,44.8,..,..,..
+"Korea, Rep.",99.2,99.9,100,..,0.7,95.1
+Kosovo,..,..,99.8,..,2.3,83.9
+Kuwait,100,100,100,..,1.8,98
+Kyrgyz Republic,70.1,92.5,100,..,5.1,38.2
+Lao PDR,17.7,61.4,93.6,31.4,..,25.5
+Latvia,96.3,83.4,100,..,3.4,80.1
+Lebanon,47.7,16.3,100,53.1,3.5,78.2
+Lesotho,28.9,47.6,33.7,50.8,43.6,39
+Liberia,..,..,24.2,65.7,3.3,16.3
+Libya,..,21.6,70.3,..,..,21.8
+Liechtenstein,100,98.8,100,..,0,99.5
+Lithuania,94.9,93.9,100,..,5.9,77.6
+Luxembourg,99.5,96.8,100,..,0.9,97.4
+North Macedonia,76.8,12.2,100,..,1.2,74.5
+Madagascar,20.5,10.4,24.1,77.2,..,4.7
+Malawi,..,24.2,12.7,66.7,1.8,13.8
+Malaysia,93.8,77.5,100,..,2.1,80.1
+Maldives,..,..,99.8,..,0.7,63.2
+Mali,..,19.9,34.8,56.3,..,15.6
+Malta,100,91.9,100,..,0.9,81
+Marshall Islands,..,..,94.2,..,..,38.7
+Mauritania,..,..,42.9,79.9,..,20.8
+Mauritius,..,..,99.6,..,1.7,55.4
+Mexico,43,57.3,100,11.1,17,63.9
+"Micronesia, Fed. Sts.",..,..,78.6,..,..,35.3
+Moldova,74.1,..,100,..,4.6,76.1
+Monaco,100,100,100,..,0,97.1
+Mongolia,30.1,55.5,93.9,42.7,7.1,23.7
+Montenegro,85.1,45.4,100,..,2.7,71.3
+Morocco,79.9,39.3,100,13.1,1.2,61.8
+Mozambique,..,..,24.3,80.3,..,7.8
+Myanmar,58.8,60.7,69.8,41,2.2,23.6
+Namibia,..,..,52.5,39.4,17.7,36.8
+Nepal,17.6,48.6,89.9,54.3,2.1,21.4
+Netherlands,100,97.5,100,..,0.6,93.2
+New Caledonia,96.6,..,100,..,..,82
+New Zealand,100,82.2,100,..,1,90.8
+Nicaragua,55.5,..,86.1,45.5,8.4,27.9
+Niger,..,16.2,17.9,70.1,4.4,10.2
+Nigeria,21.7,30.5,54.4,50.2,..,28
+Northern Mariana Islands,90.5,..,100,..,..,..
+Norway,98.6,65.4,100,..,0.5,96.4
+Oman,90.6,..,100,..,0.4,80.2
+Pakistan,35.8,..,70.8,45.5,4.8,13.8
+Palau,91.3,..,100,..,17,..
+Panama,..,..,93.7,25.8,11.9,60
+Papua New Guinea,..,..,54.4,..,..,11.2
+Paraguay,64.1,60.1,99.3,17.6,9.2,61.1
+Peru,51.3,52.8,94.8,34.2,7.4,50.5
+Philippines,47.5,60.6,93,38.3,9.4,..
+Poland,98.3,90.5,100,..,0.8,76
+Portugal,95.4,85.1,100,..,1,73.8
+Puerto Rico,99.9,32.5,100,..,18.2,68.7
+Qatar,96.2,97.2,100,..,0.4,97.4
+Romania,82,83.1,100,..,1.7,63.7
+Russian Federation,76.1,60.8,100,..,11.5,76
+Rwanda,12.1,..,34.1,53.2,2.6,21.8
+Samoa,46.2,47.7,96.8,..,3.1,33.6
+San Marino,100,70.4,100,..,..,60.2
+Sao Tome and Principe,36.2,34.7,74.3,86.6,..,29.9
+Saudi Arabia,..,59.1,99.9,18,1.5,94.2
+Senegal,..,24.1,61.7,38.8,0.3,29.6
+Serbia,75,18.4,100,..,1.2,70.3
+Seychelles,..,..,100,..,7.4,58.8
+Sierra Leone,10.6,14,23.4,75.6,1.7,13.2
+Singapore,100,100,100,..,0.3,84.5
+Sint Maarten (Dutch part),..,..,100,..,..,..
+Slovak Republic,99.2,81.9,100,..,0.8,81.6
+Slovenia,98.3,71.5,100,..,1,78.9
+Solomon Islands,..,..,62.9,..,..,11.9
+Somalia,..,31.5,32.6,73.6,..,2
+South Africa,..,..,84.4,23,33.8,56.2
+South Sudan,..,..,4.2,95.6,13.9,8
+Spain,99.6,95.7,100,..,0.6,84.6
+Sri Lanka,..,..,97.5,..,2.3,21.3
+St. Kitts and Nevis,..,..,100,..,36.1,80.7
+St. Lucia,..,..,98.3,11.9,15.6,50.8
+St. Martin (French part),96.7,..,100,..,16.7,..
+St. Vincent and the Grenadines,..,..,100,..,25.8,65.6
+Sudan,..,..,50.7,91.6,..,14.1
+Suriname,55.8,25.2,96.7,7.3,6.1,48.9
+Sweden,99.8,94.9,100,..,1.1,93
+Switzerland,94.2,99.7,100,..,0.7,89.7
+Syrian Arab Republic,..,..,89.6,19.3,..,34.3
+Tajikistan,55.2,..,99.3,..,..,22
+Tanzania,..,26.3,32.4,50.7,7.3,16
+Thailand,..,25.9,99.9,25,3.5,52.9
+Timor-Leste,..,..,83.2,..,4.1,27.5
+Togo,19.6,9.1,48,51.2,..,12.4
+Tonga,29.5,33.8,98.3,..,1,41.2
+Trinidad and Tobago,..,..,100,24.7,30.6,77.3
+Tunisia,79.3,80.8,100,8,3.1,55.5
+Turkey,..,78.4,100,11.9,2.8,64.7
+Turkmenistan,94.8,..,100,..,..,21.3
+Turks and Caicos Islands,..,..,100,..,5.7,..
+Tuvalu,..,6.1,99.8,..,18.6,49.3
+Uganda,16.6,..,32.7,53.6,12.1,..
+Ukraine,89,72,100,..,6.3,58.9
+United Arab Emirates,..,99.2,100,..,0.6,94.8
+United Kingdom,99.8,98.1,100,..,1,90.4
+United States,97.3,98.3,100,..,4.9,87.3
+Uruguay,..,..,99.8,..,8.6,70.3
+Uzbekistan,58.8,..,100,..,1.6,48.7
+Vanuatu,..,..,62.8,..,..,25.7
+"Venezuela, RB",..,23.1,99.2,32,52,57
+Vietnam,..,..,100,27.2,..,58.1
+Virgin Islands (U.S.),97.9,..,100,..,49.3,64.4
+West Bank and Gaza,79.7,66.7,99.7,..,1.2,63.3
+"Yemen, Rep.",..,18.8,79.2,60.8,6.8,26.7
+Zambia,..,..,40.3,54,5.4,..
+Zimbabwe,29.5,25.7,40.1,25.1,7.5,24.4
+World,74.3,54,88.6,29.6,5.3,46.3
+East Asia & Pacific,..,60.1,97.8,25.8,1.4,54.7
+Europe & Central Asia,91.7,69.8,100,..,3.3,74.5
+Latin America & Caribbean,75.4,34.1,97.7,21.1,22.3,62.7
+Middle East & North Africa,78.5,38.8,97.7,..,3.4,56.9
+North America,97.3,81.1,100,..,4.6,87.8
+South Asia,..,44.8,89.7,30.5,3.6,17.1
+Sub-Saharan Africa,30.2,21.3,43.4,55.3,9.4,22.3
+Low income,28.6,17.6,38.4,68.2,7.3,14.1
+Lower middle income,60,45.7,85.7,32.2,4.5,25.7
+Upper middle income,75.6,57.8,99.3,23.2,6.7,58.8
+High income,97.7,87,100,..,2.2,85.9
+,,,,,,
+Most Recent Value (MRV) if data for the specified year or full period are not available; or growth rate is calculated for less than the full period.,,,,,,
+,,,,,,
+WV.3 Global goals: promoting sustainability,,,,,,
+,,,,,,
+"World Development Indicators , THE WORLD BANK",,,,,,
+Last updated date 11/23/2021,,,,,,
+,,,,,,
+About the Data,,,,,,
+,,,,,,
+People using safely managed drinking water services (% of population),,,,,,
+Long definition,,,,,,
+"The percentage of people using drinking water from an improved source that is accessible on premises, available when needed and free from faecal and priority chemical contamination. Improved water sources include piped water, boreholes or tubewells, protected dug wells, protected springs, and packaged or delivered water.",,,,,,
+,,,,,,
+Source,,,,,,
+"WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene (washdata.org).",,,,,,
+,,,,,,
+General comments,,,,,,
+"Aggregate data by groups are computed based on the groupings for the World Bank fiscal year in which the data was released by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene. This is the Sustainable Development Goal indicator 6.1.1 [https://unstats.un.org/sdgs/metadata/].",,,,,,
+,,,,,,
+People using safely managed sanitation services (% of population),,,,,,
+Long definition,,,,,,
+"The percentage of people using improved sanitation facilities that are not shared with other households and where excreta are safely disposed of in situ or transported and treated offsite. Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines: ventilated improved pit latrines, compositing toilets or pit latrines with slabs.",,,,,,
+,,,,,,
+Source,,,,,,
+"WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene (washdata.org).",,,,,,
+,,,,,,
+General comments,,,,,,
+"Aggregate data by groups are computed based on the groupings for the World Bank fiscal year in which the data was released by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene. This is the Sustainable Development Goal indicator 6.2.1 [https://unstats.un.org/sdgs/metadata/].",,,,,,
+,,,,,,
+Access to electricity (% of population),,,,,,
+Long definition,,,,,,
+"Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.",,,,,,
+,,,,,,
+Source,,,,,,
+"World Bank Global Electrification Database from ""Tracking SDG 7: The Energy Progress Report"" led jointly by the custodian agencies: the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA), the United Nations Statistics Division (UNSD), the World Bank and the World Health Organization (WHO).",,,,,,
+,,,,,,
+Renewable energy consumption (% of total final energy consumption),,,,,,
+Long definition,,,,,,
+Renewable energy consumption is the share of renewables energy in total final energy consumption.,,,,,,
+,,,,,,
+Source,,,,,,
+"World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program.",,,,,,
+,,,,,,
+Research and development expenditure (% of GDP),,,,,,
+Long definition,,,,,,
+"Gross domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development.",,,,,,
+,,,,,,
+Source,,,,,,
+UNESCO Institute for Statistics (http://uis.unesco.org/). Data as of September 2021.,,,,,,
+,,,,,,
+Population living in slums (% of urban population),,,,,,
+Long definition,,,,,,
+"Population living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, housing durability, and security of tenure, as adopted in the Millennium Development Goal Target 7.D. The successor, the Sustainable Development Goal 11.1.1, considers inadequate housing (housing affordability) to complement the above definition of slums/informal settlements.",,,,,,
+,,,,,,
+Source,,,,,,
+United Nations Human Settlements Programme (UN-HABITAT),,,,,,
+,,,,,,
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",,,,,,
+Long definition,,,,,,
+"Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.",,,,,,
+,,,,,,
+Source,,,,,,
+"Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017.",,,,,,
+,,,,,,
+"Adjusted net savings, including particulate emission damage (% of GNI)",,,,,,
+Long definition,,,,,,
+"Adjusted net savings are equal to net national savings plus education expenditure and minus energy depletion, mineral depletion, net forest depletion, and carbon dioxide and particulate emissions damage.",,,,,,
+,,,,,,
+Source,,,,,,
+"World Bank staff estimates based on sources and methods in World Bank's ""The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium"" (2011).",,,,,,
+,,,,,,
+CO2 emissions (metric tons per capita),,,,,,
+Long definition,,,,,,
+"Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",,,,,,
+,,,,,,
+Source,,,,,,
+"Data for up to 1990 are sourced from Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States. Data from 1990 are CAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources Institute. Available at: https://www.climatewatchdata.org/ghg-emissions. See SP.POP.TOTL for the denominator's source.",,,,,,
+,,,,,,
+Terrestrial and marine protected areas (% of total territorial area),,,,,,
+Long definition,,,,,,
+"Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine protected areas are areas of intertidal or subtidal terrain--and overlying water and associated flora and fauna and historical and cultural features--that have been reserved by law or other effective means to protect part or all of the enclosed environment. Sites protected under local or provincial law are excluded.",,,,,,
+,,,,,,
+Source,,,,,,
+"World Database on Protected Areas (WDPA) where the compilation and management is carried out by United Nations Environment World Conservation Monitoring Centre (UNEP-WCMC) in collaboration with governments, non-governmental organizations, academia and industry. The data is available online through the Protected Planet website (https://www.protectedplanet.net/).",,,,,,
+,,,,,,
+General comments,,,,,,
+Restricted use: Please contact the Protected Planet for third-party use of these data.,,,,,,
+,,,,,,
+"Intentional homicides (per 100,000 people)",,,,,,
+Long definition,,,,,,
+"Intentional homicides are estimates of unlawful homicides purposely inflicted as a result of domestic disputes, interpersonal violence, violent conflicts over land resources, intergang violence over turf or control, and predatory violence and killing by armed groups. Intentional homicide does not include all intentional killing; the difference is usually in the organization of the killing. Individuals or small groups usually commit homicide, whereas killing in armed conflict is usually committed by fairly cohesive groups of up to several hundred members and is thus usually excluded.",,,,,,
+,,,,,,
+Source,,,,,,
+UN Office on Drugs and Crime's International Homicide Statistics database.,,,,,,
+,,,,,,
+Individuals using the Internet (% of population),,,,,,
+Long definition,,,,,,
+"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.",,,,,,
+,,,,,,
+Source,,,,,,
+International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database,,,,,,
+,,,,,,
+General comments,,,,,,
+Please cite the International Telecommunication Union for third-party use of these data.,,,,,,
+,,,,,,
+,,,,,,
+"Please see the online table at http://wdi.worldbank.org/table/WV.3 for observation-level metadata, which can be downloaded in Excel.",,,,,,
